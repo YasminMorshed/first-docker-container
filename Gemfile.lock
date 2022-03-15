@@ -19,7 +19,11 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  rack (>= 1.0)
   sinatra
+
+RUBY VERSION
+   ruby 2.6.9p207
 
 BUNDLED WITH
    2.3.6
